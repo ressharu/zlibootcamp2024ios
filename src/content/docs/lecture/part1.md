@@ -1,5 +1,5 @@
 ---
-title: 'キックオフ'
+title: '基本文法'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 12 2024'
 heroImage: '/kickoff.jpg'
