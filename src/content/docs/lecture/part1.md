@@ -10,7 +10,7 @@ heroImage: '/kickoff.jpg'
 このコースを終了する頃には、以下のようなアプリを作成することができるようになっているはずです！
 
 <video width="300" height="600" controls>
-  <source src="../../../assets/cyber.mp4" type="video/mp4">
+  <source src="/zlibootcamp2024ios/cyber.mp4" type="video/mp4">
   お使いのブラウザでは動画タグがサポートされていません。
 </video>
 
